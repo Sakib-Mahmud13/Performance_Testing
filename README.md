@@ -55,7 +55,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
 
 - Name: Users
 - Number of Threads (users): 200 to 500
-- Ramp-Up Period (in seconds): 1
+- Ramp-Up Period (in seconds): 10
 - Loop Count: 1
 
   1) The general setting for the tests execution, such as whether Thread Groups will run simultaneously or sequentially, is specified in the item called Test Plan.
