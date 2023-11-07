@@ -15,7 +15,8 @@
 
 # Introduction
 
-This document explains how to run a performance test with JMeter against an simplelearn.com.
+This document explains how to run a performance test with JMeter against an 
+https://restful-booker.herokuapp.com.
 
 # Install
 
